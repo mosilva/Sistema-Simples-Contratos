@@ -20,3 +20,6 @@ Implemente o método calcularPrestacao() na(s) classe(s) necessárias.
 
 ![SistemaSimplesContrato](https://user-images.githubusercontent.com/48559533/175975185-e4795f16-3a04-4053-92b3-3708f54a781d.jpg)
 
+============================= TELAS ===========================================
+
+![Telas](https://user-images.githubusercontent.com/48559533/175979279-207ba14b-af0f-4f91-9a6e-3296438bfd39.jpg)
