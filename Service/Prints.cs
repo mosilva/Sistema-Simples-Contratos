@@ -9,7 +9,9 @@ namespace SistemaSimplesContratos.Service
 {
     public static class Prints
     {
-        public const string menuInicial = @" =========== MENU INICIAL ===========   
+        public const string menuInicial = @" ****** SISTEMA DE CONTRATOS **********
+
+=========== MENU INICIAL ===========   
 
 1 - Cadastrar Contrato de pessoa física
 2 - Cadastrar Contrato de pessoa jurídica
